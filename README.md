@@ -1,11 +1,11 @@
-###Endemic_data
+### Endemic_data
 - Assessed endemic lists are the results of the combination of the IUCN redlist and the list of endemic insects, birds and vascular plants.
 - the python file data_comparison is the script used for the comparison.
 - The synonyms and assessments csv files were extracted from the IUCN website and used for the comparison.
-###Processing_results
- ####HHL
+### Processing_results
+ #### HHL
  - The HHL folder contains the calculations and the results for the HumHL rates and alternative HumHL rates for allthe archipelagos.
-  ####Results
+  #### Results
  - The results folder contains the result of the LMM and GLMM for the three taxonomic groups
  - Correlation_Matrix contains the script for the correlation matrix
  - H_2.1 contains the script for the calculation and visualization of the hypothesis 2.1 
