@@ -4,7 +4,7 @@
 - The synonyms and assessments csv files were extracted from the IUCN website and used for the comparison.
 ### Processing_results
  #### HHL
- - The HHL folder contains the calculations and the results for the HumHL rates and alternative HumHL rates for allthe archipelagos.
+ - The HHL folder contains the calculations and the results for the HumHL rates and alternative HumHL rates for allthe archipelagos as well as the alternative years.
   #### Results
  - The results folder contains the result of the LMM and GLMM for the three taxonomic groups
  - Correlation_Matrix contains the script for the correlation matrix
