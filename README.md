@@ -16,4 +16,4 @@
  - NHL_HHL_Ratios contains the script for the visualiation of the cleveland dot plot of HumHL rates and BaseHL rates and the ratio plot
  - The excel file NHL_HHL_Ratios contains the data needed to run the NHL_HHL_Ratios script.
  - The excel file Variables_Endemics contains the data and the visualization used for the Importance plot.  
- #### Disclaimer: HHL = HumHL and = NHL= BaseHL. Some dcouments still have HHL or NHL, as the acronym was changed at the end.
+ #### Disclaimer: HHL = HumHL and NHL= BaseHL. Some dcouments still have HHL or NHL, as the acronym was changed at the end.
